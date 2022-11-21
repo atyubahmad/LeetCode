@@ -9,8 +9,6 @@ class Solution:
         sList.sort()
         tList.sort()
         
-        print(sList)
-        print(tList)
         
         if sList == tList:
             return True
