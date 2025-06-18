@@ -1,15 +1,9 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        sList = []
-        tList = []
-        
-        sList.extend(s)
-        tList.extend(t)
-        
-        sList.sort()
-        tList.sort()
-        
-        
-        if sList == tList:
+        s = ''.join(sorted(s))
+        t = ''.join(sorted(t))
+
+        if s == t:
             return True
+        
         return False
