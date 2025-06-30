@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/atyubahmad/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/atyubahmad/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/atyubahmad/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/atyubahmad/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/atyubahmad/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/atyubahmad/LeetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -32,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/atyubahmad/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atyubahmad/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/atyubahmad/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/atyubahmad/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atyubahmad/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/atyubahmad/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/atyubahmad/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/atyubahmad/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/atyubahmad/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/atyubahmad/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/atyubahmad/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/atyubahmad/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/atyubahmad/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/atyubahmad/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/atyubahmad/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
