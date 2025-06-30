@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/atyubahmad/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atyubahmad/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/atyubahmad/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/atyubahmad/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/atyubahmad/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/atyubahmad/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/atyubahmad/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/atyubahmad/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
